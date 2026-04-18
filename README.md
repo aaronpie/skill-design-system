@@ -48,7 +48,7 @@ design-system/
 ## Example prompts
 
 ```
-Make a design system and brand book for getrubric.app
+Make a design system and brand book for linear.app
 ```
 
 ```
