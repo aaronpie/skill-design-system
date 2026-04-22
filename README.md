@@ -1,5 +1,7 @@
 # Design System Toolkit
 
+Youtube video: https://www.youtube.com/watch?v=GaQIamkXJeo
+
 Give Claude a brand reference, get a complete design system page and a print-ready A4 brand book in one shot.
 
 ## What you get
